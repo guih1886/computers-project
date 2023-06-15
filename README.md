@@ -8,6 +8,14 @@ Projeto de um e-commerce de uma loja de produtos eletrônicos.
 | :label: Tecnologias | Angular, TypeScript, LESS
 | :rocket: URL         | https://guih1886.github.io/computers-project/
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+## Página inicial dos produtos.
+![](src/app/assets/img1.png#vitrinedev)
+## Página de detalhe do produto.
+![](src/app/assets/img2.png)
+## Carrinho com os produtos.
+![](src/app/assets/img3.png)
+
 ## Detalhes do projeto
 
 > ## Nesse projeto podemos executar:
@@ -18,12 +26,3 @@ Projeto de um e-commerce de uma loja de produtos eletrônicos.
 > - **Excluir ou alterar a quantidade do produto no carrinho**
 > - **Confirmar a compra dos produtos no carrinho**
 > - **Enviar uma mensagem de contato**
-
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-## Página inicial dos produtos.
-![](src/app/assets/img1.png#vitrinedev)
-## Página de detalhe do produto.
-![](src/app/assets/img2.png)
-## Carrinho com os produtos.
-![](src/app/assets/img3.png)
