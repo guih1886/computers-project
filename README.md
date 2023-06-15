@@ -10,11 +10,11 @@ Projeto de um e-commerce de uma loja de produtos eletrônicos.
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ## Página inicial dos produtos.
-![](src/app/assets/img1.png#vitrinedev)
+![](https://github.com/guih1886/computers-project/blob/main/src/app/assets/img1.png#vitrinedev)
 ## Página de detalhe do produto.
-![](src/app/assets/img2.png)
+![](https://github.com/guih1886/computers-project/blob/main/src/app/assets/img2.png)
 ## Carrinho com os produtos.
-![](src/app/assets/img3.png)
+![](https://github.com/guih1886/computers-project/blob/main/src/app/assets/img3.png)
 
 ## Detalhes do projeto
 
