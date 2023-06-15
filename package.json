@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href='https://guih1886.github.io/computers-project'",
+    "build": "ng build --base-href='https://guih1886.github.io/computers-project/'",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
