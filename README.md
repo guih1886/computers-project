@@ -26,3 +26,5 @@ Projeto de um e-commerce de uma loja de produtos eletrônicos.
 > - **Excluir ou alterar a quantidade do produto no carrinho**
 > - **Confirmar a compra dos produtos no carrinho**
 > - **Enviar uma mensagem de contato**
+
+Detalhe
