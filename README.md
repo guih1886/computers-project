@@ -2,7 +2,7 @@
 
 Projeto de um e-commerce de uma loja de produtos eletrônicos.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |    Guilherme Henrique    |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Computadores**
 | :label: Tecnologias | Angular, TypeScript, LESS
